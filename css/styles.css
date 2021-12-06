@@ -540,13 +540,19 @@ a {
   display: flex;
 }
 
-.border-i {
+.clients-border {
   width: 170px;
   height: 92px;
   border: 1px solid #afb1b8;
   border-radius: 4px;
+  padding: 23px 64px;
 }
 
 .border-i:not(:last-child) {
   margin-right: 30px;
+}
+
+.one {
+  width: 100px;
+  height: 47px;
 }
